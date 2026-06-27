@@ -27,17 +27,6 @@ Customers often struggle to find specific everyday products at nearby stores wit
 
 ---
 
-## 📥 Installation (APK)
-
-1. **Download** the APK from the [Releases](https://github.com/sun-9545sunoj/NearFind/releases) page (or [direct link](<APK_DOWNLOAD_LINK>))
-2. **Enable Unknown Sources**: Go to `Settings → Security → Install Unknown Apps` and allow your browser
-3. **Install**: Open the downloaded `.apk` file and tap **Install**
-4. **Launch**: Open **NearFind** from your app drawer
-
-> **Requirements:** Android 7.0 (API 24) or higher
-
----
-
 ## 🛠️ Running from Source
 
 ### Prerequisites
